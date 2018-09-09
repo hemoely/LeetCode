@@ -1,2 +1,1 @@
-Git is a version control system.
-Git is a free software.
+This is my responsity for coding in LeetCode using  Java.
